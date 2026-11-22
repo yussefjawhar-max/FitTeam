@@ -1,0 +1,6 @@
+Source: TurkiyeAPI, independent public community project (not government address verification).
+https://turkiyeapi.dev/
+https://api.turkiyeapi.dev/v2/datasets/
+Downloaded 2026-10-09. Dataset version 2025 per public documentation.
+API/project license: MIT (https://github.com/ubeydeozdmr/turkiye-api).
+Addresses entered by users are self-reported. No building/apartment address is verified by this dataset.

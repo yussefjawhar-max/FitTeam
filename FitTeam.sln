@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FitTeam.Core", "FitTeam.Core\FitTeam.Core.csproj", "{DA03ED04-F510-40C9-B39B-0C7E47BF79BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FitTeam.Desktop", "FitTeam.Desktop\FitTeam.Desktop.csproj", "{EFC3D4B5-EA32-479A-82AF-FF05093D8695}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FitTeam.Checks", "FitTeam.Checks\FitTeam.Checks.csproj", "{2D62FD0E-04F2-4CEC-92F6-54D48FF4CC3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FitTeam.AuthServer", "FitTeam.AuthServer\FitTeam.AuthServer.csproj", "{B245DEA8-10D9-4908-A17D-5E20B3DC4F09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FitTeam.Persistence", "FitTeam.Persistence\FitTeam.Persistence.csproj", "{42373A74-C5F7-42D4-8F7D-33093733D8C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FitTeam.Controllers", "FitTeam.Controllers\FitTeam.Controllers.csproj", "{382279CF-6F0F-4FD3-B1AF-9DB349FCF365}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FitTeam.IntegrationChecks", "FitTeam.IntegrationChecks\FitTeam.IntegrationChecks.csproj", "{9C4C2DB3-3317-42D3-B1CC-7CEDD9EB7969}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA03ED04-F510-40C9-B39B-0C7E47BF79BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA03ED04-F510-40C9-B39B-0C7E47BF79BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA03ED04-F510-40C9-B39B-0C7E47BF79BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA03ED04-F510-40C9-B39B-0C7E47BF79BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFC3D4B5-EA32-479A-82AF-FF05093D8695}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFC3D4B5-EA32-479A-82AF-FF05093D8695}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFC3D4B5-EA32-479A-82AF-FF05093D8695}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFC3D4B5-EA32-479A-82AF-FF05093D8695}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D62FD0E-04F2-4CEC-92F6-54D48FF4CC3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D62FD0E-04F2-4CEC-92F6-54D48FF4CC3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D62FD0E-04F2-4CEC-92F6-54D48FF4CC3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D62FD0E-04F2-4CEC-92F6-54D48FF4CC3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B245DEA8-10D9-4908-A17D-5E20B3DC4F09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B245DEA8-10D9-4908-A17D-5E20B3DC4F09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B245DEA8-10D9-4908-A17D-5E20B3DC4F09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B245DEA8-10D9-4908-A17D-5E20B3DC4F09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42373A74-C5F7-42D4-8F7D-33093733D8C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42373A74-C5F7-42D4-8F7D-33093733D8C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42373A74-C5F7-42D4-8F7D-33093733D8C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42373A74-C5F7-42D4-8F7D-33093733D8C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{382279CF-6F0F-4FD3-B1AF-9DB349FCF365}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{382279CF-6F0F-4FD3-B1AF-9DB349FCF365}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{382279CF-6F0F-4FD3-B1AF-9DB349FCF365}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{382279CF-6F0F-4FD3-B1AF-9DB349FCF365}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C4C2DB3-3317-42D3-B1CC-7CEDD9EB7969}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C4C2DB3-3317-42D3-B1CC-7CEDD9EB7969}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C4C2DB3-3317-42D3-B1CC-7CEDD9EB7969}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C4C2DB3-3317-42D3-B1CC-7CEDD9EB7969}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+FitTeam MySQL kurulumu
+
+Gereksinim: MySQL 8.4; yeni veritabanı oluşturma ve tablo oluşturma yetkisi olan bağlantı.
+MySQL Workbench içinde bağlantınızı açın, File > Open SQL Script ile FitTeam-Tam-Kurulum.sql dosyasını seçin ve dosyanın tamamını çalıştırın.
+Dosya fitteam veritabanını, uygulamanın 30 tablosunu ve ilk durum kaydını oluşturur. Mevcut tabloları silmez. Mevcut farklı şemaları otomatik dönüştürmez; temiz kurulum içindir.
+Kullanıcı hesabı veya bağlantı parolası oluşturmaz. Uygulamanın veritabanı bağlantısı ayrıca ayarlanır; masaüstü paketinin otomatik yerel kurulumu kendi bağlantı ayarını oluşturur.
+Gerçek kullanıcı kayıtları, hesap parolaları ve SMTP anahtarları dahil değildir. İlk uygulama verilerinin yüklenmesi uygulamanın açılış akışına aittir.
+
+29.10.2026 doğrulaması: Ayrı boş test veritabanına yüklendi. 30 tablo ve ilk durum kaydı doğrulandı. Aynı dosya ikinci kez çalıştırıldığında hata oluşmadı. Test veritabanı temizlendi; gerçek kayıtlar değiştirilmedi.

@@ -1,0 +1,1550 @@
+[
+  {
+    "Code": "AC",
+    "Turkish": "Ascension Adası",
+    "English": "Ascension Island",
+    "Arabic": "جزيرة أسينشيون"
+  },
+  {
+    "Code": "AD",
+    "Turkish": "Andorra",
+    "English": "Andorra",
+    "Arabic": "أندورا"
+  },
+  {
+    "Code": "AE",
+    "Turkish": "Birleşik Arap Emirlikleri",
+    "English": "United Arab Emirates",
+    "Arabic": "الإمارات العربية المتحدة"
+  },
+  {
+    "Code": "AF",
+    "Turkish": "Afganistan",
+    "English": "Afghanistan",
+    "Arabic": "أفغانستان"
+  },
+  {
+    "Code": "AG",
+    "Turkish": "Antigua ve Barbuda",
+    "English": "Antigua & Barbuda",
+    "Arabic": "أنتيغوا وبربودا"
+  },
+  {
+    "Code": "AI",
+    "Turkish": "Anguilla",
+    "English": "Anguilla",
+    "Arabic": "أنغويلا"
+  },
+  {
+    "Code": "AL",
+    "Turkish": "Arnavutluk",
+    "English": "Albania",
+    "Arabic": "ألبانيا"
+  },
+  {
+    "Code": "AM",
+    "Turkish": "Ermenistan",
+    "English": "Armenia",
+    "Arabic": "أرمينيا"
+  },
+  {
+    "Code": "AO",
+    "Turkish": "Angola",
+    "English": "Angola",
+    "Arabic": "أنغولا"
+  },
+  {
+    "Code": "AQ",
+    "Turkish": "Antarktika",
+    "English": "Antarctica",
+    "Arabic": "أنتاركتيكا"
+  },
+  {
+    "Code": "AR",
+    "Turkish": "Arjantin",
+    "English": "Argentina",
+    "Arabic": "الأرجنتين"
+  },
+  {
+    "Code": "AS",
+    "Turkish": "Amerikan Samoası",
+    "English": "American Samoa",
+    "Arabic": "ساموا الأمريكية"
+  },
+  {
+    "Code": "AT",
+    "Turkish": "Avusturya",
+    "English": "Austria",
+    "Arabic": "النمسا"
+  },
+  {
+    "Code": "AU",
+    "Turkish": "Avustralya",
+    "English": "Australia",
+    "Arabic": "أستراليا"
+  },
+  {
+    "Code": "AW",
+    "Turkish": "Aruba",
+    "English": "Aruba",
+    "Arabic": "أروبا"
+  },
+  {
+    "Code": "AX",
+    "Turkish": "Åland Adaları",
+    "English": "Åland Islands",
+    "Arabic": "جزر آلاند"
+  },
+  {
+    "Code": "AZ",
+    "Turkish": "Azerbaycan",
+    "English": "Azerbaijan",
+    "Arabic": "أذربيجان"
+  },
+  {
+    "Code": "BA",
+    "Turkish": "Bosna-Hersek",
+    "English": "Bosnia & Herzegovina",
+    "Arabic": "البوسنة والهرسك"
+  },
+  {
+    "Code": "BB",
+    "Turkish": "Barbados",
+    "English": "Barbados",
+    "Arabic": "بربادوس"
+  },
+  {
+    "Code": "BD",
+    "Turkish": "Bangladeş",
+    "English": "Bangladesh",
+    "Arabic": "بنغلاديش"
+  },
+  {
+    "Code": "BE",
+    "Turkish": "Belçika",
+    "English": "Belgium",
+    "Arabic": "بلجيكا"
+  },
+  {
+    "Code": "BF",
+    "Turkish": "Burkina Faso",
+    "English": "Burkina Faso",
+    "Arabic": "بوركينا فاسو"
+  },
+  {
+    "Code": "BG",
+    "Turkish": "Bulgaristan",
+    "English": "Bulgaria",
+    "Arabic": "بلغاريا"
+  },
+  {
+    "Code": "BH",
+    "Turkish": "Bahreyn",
+    "English": "Bahrain",
+    "Arabic": "البحرين"
+  },
+  {
+    "Code": "BI",
+    "Turkish": "Burundi",
+    "English": "Burundi",
+    "Arabic": "بوروندي"
+  },
+  {
+    "Code": "BJ",
+    "Turkish": "Benin",
+    "English": "Benin",
+    "Arabic": "بنين"
+  },
+  {
+    "Code": "BL",
+    "Turkish": "Saint Barthelemy",
+    "English": "St. Barthélemy",
+    "Arabic": "سان بارتليمي"
+  },
+  {
+    "Code": "BM",
+    "Turkish": "Bermuda",
+    "English": "Bermuda",
+    "Arabic": "برمودا"
+  },
+  {
+    "Code": "BN",
+    "Turkish": "Brunei",
+    "English": "Brunei",
+    "Arabic": "بروناي"
+  },
+  {
+    "Code": "BO",
+    "Turkish": "Bolivya",
+    "English": "Bolivia",
+    "Arabic": "بوليفيا"
+  },
+  {
+    "Code": "BQ",
+    "Turkish": "Karayip Hollandası",
+    "English": "Caribbean Netherlands",
+    "Arabic": "هولندا الكاريبية"
+  },
+  {
+    "Code": "BR",
+    "Turkish": "Brezilya",
+    "English": "Brazil",
+    "Arabic": "البرازيل"
+  },
+  {
+    "Code": "BS",
+    "Turkish": "Bahamalar",
+    "English": "Bahamas",
+    "Arabic": "جزر البهاما"
+  },
+  {
+    "Code": "BT",
+    "Turkish": "Butan",
+    "English": "Bhutan",
+    "Arabic": "بوتان"
+  },
+  {
+    "Code": "BV",
+    "Turkish": "Bouvet Adası",
+    "English": "Bouvet Island",
+    "Arabic": "جزيرة بوفيه"
+  },
+  {
+    "Code": "BW",
+    "Turkish": "Botsvana",
+    "English": "Botswana",
+    "Arabic": "بوتسوانا"
+  },
+  {
+    "Code": "BY",
+    "Turkish": "Belarus",
+    "English": "Belarus",
+    "Arabic": "بيلاروس"
+  },
+  {
+    "Code": "BZ",
+    "Turkish": "Belize",
+    "English": "Belize",
+    "Arabic": "بليز"
+  },
+  {
+    "Code": "CA",
+    "Turkish": "Kanada",
+    "English": "Canada",
+    "Arabic": "كندا"
+  },
+  {
+    "Code": "CC",
+    "Turkish": "Cocos (Keeling) Adaları",
+    "English": "Cocos (Keeling) Islands",
+    "Arabic": "جزر كوكوس (كيلينغ)"
+  },
+  {
+    "Code": "CD",
+    "Turkish": "Kongo - Kinşasa",
+    "English": "Congo - Kinshasa",
+    "Arabic": "الكونغو - كينشاسا"
+  },
+  {
+    "Code": "CF",
+    "Turkish": "Orta Afrika Cumhuriyeti",
+    "English": "Central African Republic",
+    "Arabic": "جمهورية أفريقيا الوسطى"
+  },
+  {
+    "Code": "CG",
+    "Turkish": "Kongo - Brazavil",
+    "English": "Congo - Brazzaville",
+    "Arabic": "الكونغو - برازافيل"
+  },
+  {
+    "Code": "CH",
+    "Turkish": "İsviçre",
+    "English": "Switzerland",
+    "Arabic": "سويسرا"
+  },
+  {
+    "Code": "CI",
+    "Turkish": "Côte d’Ivoire",
+    "English": "Côte d’Ivoire",
+    "Arabic": "ساحل العاج"
+  },
+  {
+    "Code": "CK",
+    "Turkish": "Cook Adaları",
+    "English": "Cook Islands",
+    "Arabic": "جزر كوك"
+  },
+  {
+    "Code": "CL",
+    "Turkish": "Şili",
+    "English": "Chile",
+    "Arabic": "تشيلي"
+  },
+  {
+    "Code": "CM",
+    "Turkish": "Kamerun",
+    "English": "Cameroon",
+    "Arabic": "الكاميرون"
+  },
+  {
+    "Code": "CN",
+    "Turkish": "Çin",
+    "English": "China",
+    "Arabic": "الصين"
+  },
+  {
+    "Code": "CO",
+    "Turkish": "Kolombiya",
+    "English": "Colombia",
+    "Arabic": "كولومبيا"
+  },
+  {
+    "Code": "CP",
+    "Turkish": "Clipperton Adası",
+    "English": "Clipperton Island",
+    "Arabic": "جزيرة كليبيرتون"
+  },
+  {
+    "Code": "CQ",
+    "Turkish": "Sark",
+    "English": "Sark",
+    "Arabic": "سارك"
+  },
+  {
+    "Code": "CR",
+    "Turkish": "Kosta Rika",
+    "English": "Costa Rica",
+    "Arabic": "كوستاريكا"
+  },
+  {
+    "Code": "CU",
+    "Turkish": "Küba",
+    "English": "Cuba",
+    "Arabic": "كوبا"
+  },
+  {
+    "Code": "CV",
+    "Turkish": "Cabo Verde",
+    "English": "Cape Verde",
+    "Arabic": "الرأس الأخضر"
+  },
+  {
+    "Code": "CW",
+    "Turkish": "Curaçao",
+    "English": "Curaçao",
+    "Arabic": "كوراساو"
+  },
+  {
+    "Code": "CX",
+    "Turkish": "Christmas Adası",
+    "English": "Christmas Island",
+    "Arabic": "جزيرة كريسماس"
+  },
+  {
+    "Code": "CY",
+    "Turkish": "Kıbrıs",
+    "English": "Cyprus",
+    "Arabic": "قبرص"
+  },
+  {
+    "Code": "CZ",
+    "Turkish": "Çekya",
+    "English": "Czechia",
+    "Arabic": "التشيك"
+  },
+  {
+    "Code": "DE",
+    "Turkish": "Almanya",
+    "English": "Germany",
+    "Arabic": "ألمانيا"
+  },
+  {
+    "Code": "DG",
+    "Turkish": "Diego Garcia",
+    "English": "Diego Garcia",
+    "Arabic": "دييغو غارسيا"
+  },
+  {
+    "Code": "DJ",
+    "Turkish": "Cibuti",
+    "English": "Djibouti",
+    "Arabic": "جيبوتي"
+  },
+  {
+    "Code": "DK",
+    "Turkish": "Danimarka",
+    "English": "Denmark",
+    "Arabic": "الدانمرك"
+  },
+  {
+    "Code": "DM",
+    "Turkish": "Dominika",
+    "English": "Dominica",
+    "Arabic": "دومينيكا"
+  },
+  {
+    "Code": "DO",
+    "Turkish": "Dominik Cumhuriyeti",
+    "English": "Dominican Republic",
+    "Arabic": "جمهورية الدومينيكان"
+  },
+  {
+    "Code": "DZ",
+    "Turkish": "Cezayir",
+    "English": "Algeria",
+    "Arabic": "الجزائر"
+  },
+  {
+    "Code": "EA",
+    "Turkish": "Ceuta ve Melilla",
+    "English": "Ceuta & Melilla",
+    "Arabic": "سيوتا وميليلا"
+  },
+  {
+    "Code": "EC",
+    "Turkish": "Ekvador",
+    "English": "Ecuador",
+    "Arabic": "الإكوادور"
+  },
+  {
+    "Code": "EE",
+    "Turkish": "Estonya",
+    "English": "Estonia",
+    "Arabic": "إستونيا"
+  },
+  {
+    "Code": "EG",
+    "Turkish": "Mısır",
+    "English": "Egypt",
+    "Arabic": "مصر"
+  },
+  {
+    "Code": "EH",
+    "Turkish": "Batı Sahra",
+    "English": "Western Sahara",
+    "Arabic": "الصحراء الغربية"
+  },
+  {
+    "Code": "ER",
+    "Turkish": "Eritre",
+    "English": "Eritrea",
+    "Arabic": "إريتريا"
+  },
+  {
+    "Code": "ES",
+    "Turkish": "İspanya",
+    "English": "Spain",
+    "Arabic": "إسبانيا"
+  },
+  {
+    "Code": "ET",
+    "Turkish": "Etiyopya",
+    "English": "Ethiopia",
+    "Arabic": "إثيوبيا"
+  },
+  {
+    "Code": "EZ",
+    "Turkish": "Euro Bölgesi",
+    "English": "Eurozone",
+    "Arabic": "منطقة اليورو"
+  },
+  {
+    "Code": "FI",
+    "Turkish": "Finlandiya",
+    "English": "Finland",
+    "Arabic": "فنلندا"
+  },
+  {
+    "Code": "FJ",
+    "Turkish": "Fiji",
+    "English": "Fiji",
+    "Arabic": "فيجي"
+  },
+  {
+    "Code": "FK",
+    "Turkish": "Falkland Adaları",
+    "English": "Falkland Islands",
+    "Arabic": "جزر فوكلاند"
+  },
+  {
+    "Code": "FM",
+    "Turkish": "Mikronezya",
+    "English": "Micronesia",
+    "Arabic": "ميكرونيزيا"
+  },
+  {
+    "Code": "FO",
+    "Turkish": "Faroe Adaları",
+    "English": "Faroe Islands",
+    "Arabic": "جزر فارو"
+  },
+  {
+    "Code": "FR",
+    "Turkish": "Fransa",
+    "English": "France",
+    "Arabic": "فرنسا"
+  },
+  {
+    "Code": "GA",
+    "Turkish": "Gabon",
+    "English": "Gabon",
+    "Arabic": "الغابون"
+  },
+  {
+    "Code": "GB",
+    "Turkish": "Birleşik Krallık",
+    "English": "United Kingdom",
+    "Arabic": "المملكة المتحدة"
+  },
+  {
+    "Code": "GD",
+    "Turkish": "Grenada",
+    "English": "Grenada",
+    "Arabic": "غرينادا"
+  },
+  {
+    "Code": "GE",
+    "Turkish": "Gürcistan",
+    "English": "Georgia",
+    "Arabic": "جورجيا"
+  },
+  {
+    "Code": "GF",
+    "Turkish": "Fransız Guyanası",
+    "English": "French Guiana",
+    "Arabic": "غويانا الفرنسية"
+  },
+  {
+    "Code": "GG",
+    "Turkish": "Guernsey",
+    "English": "Guernsey",
+    "Arabic": "غيرنزي"
+  },
+  {
+    "Code": "GH",
+    "Turkish": "Gana",
+    "English": "Ghana",
+    "Arabic": "غانا"
+  },
+  {
+    "Code": "GI",
+    "Turkish": "Cebelitarık",
+    "English": "Gibraltar",
+    "Arabic": "جبل طارق"
+  },
+  {
+    "Code": "GL",
+    "Turkish": "Grönland",
+    "English": "Greenland",
+    "Arabic": "غرينلاند"
+  },
+  {
+    "Code": "GM",
+    "Turkish": "Gambiya",
+    "English": "Gambia",
+    "Arabic": "غامبيا"
+  },
+  {
+    "Code": "GN",
+    "Turkish": "Gine",
+    "English": "Guinea",
+    "Arabic": "غينيا"
+  },
+  {
+    "Code": "GP",
+    "Turkish": "Guadeloupe",
+    "English": "Guadeloupe",
+    "Arabic": "غوادلوب"
+  },
+  {
+    "Code": "GQ",
+    "Turkish": "Ekvator Ginesi",
+    "English": "Equatorial Guinea",
+    "Arabic": "غينيا الاستوائية"
+  },
+  {
+    "Code": "GR",
+    "Turkish": "Yunanistan",
+    "English": "Greece",
+    "Arabic": "اليونان"
+  },
+  {
+    "Code": "GS",
+    "Turkish": "Güney Georgia ve Güney Sandwich Adaları",
+    "English": "South Georgia & South Sandwich Islands",
+    "Arabic": "جورجيا الجنوبية وجزر ساندويتش الجنوبية"
+  },
+  {
+    "Code": "GT",
+    "Turkish": "Guatemala",
+    "English": "Guatemala",
+    "Arabic": "غواتيمالا"
+  },
+  {
+    "Code": "GU",
+    "Turkish": "Guam",
+    "English": "Guam",
+    "Arabic": "غوام"
+  },
+  {
+    "Code": "GW",
+    "Turkish": "Gine-Bissau",
+    "English": "Guinea-Bissau",
+    "Arabic": "غينيا بيساو"
+  },
+  {
+    "Code": "GY",
+    "Turkish": "Guyana",
+    "English": "Guyana",
+    "Arabic": "غيانا"
+  },
+  {
+    "Code": "HK",
+    "Turkish": "Çin Hong Kong ÖİB",
+    "English": "Hong Kong SAR China",
+    "Arabic": "هونغ كونغ الصينية (منطقة إدارية خاصة)"
+  },
+  {
+    "Code": "HM",
+    "Turkish": "Heard Adası ve McDonald Adaları",
+    "English": "Heard & McDonald Islands",
+    "Arabic": "جزيرة هيرد وجزر ماكدونالد"
+  },
+  {
+    "Code": "HN",
+    "Turkish": "Honduras",
+    "English": "Honduras",
+    "Arabic": "هندوراس"
+  },
+  {
+    "Code": "HR",
+    "Turkish": "Hırvatistan",
+    "English": "Croatia",
+    "Arabic": "كرواتيا"
+  },
+  {
+    "Code": "HT",
+    "Turkish": "Haiti",
+    "English": "Haiti",
+    "Arabic": "هايتي"
+  },
+  {
+    "Code": "HU",
+    "Turkish": "Macaristan",
+    "English": "Hungary",
+    "Arabic": "هنغاريا"
+  },
+  {
+    "Code": "IC",
+    "Turkish": "Kanarya Adaları",
+    "English": "Canary Islands",
+    "Arabic": "جزر الكناري"
+  },
+  {
+    "Code": "ID",
+    "Turkish": "Endonezya",
+    "English": "Indonesia",
+    "Arabic": "إندونيسيا"
+  },
+  {
+    "Code": "IE",
+    "Turkish": "İrlanda",
+    "English": "Ireland",
+    "Arabic": "أيرلندا"
+  },
+  {
+    "Code": "IL",
+    "Turkish": "İsrail",
+    "English": "Israel",
+    "Arabic": "إسرائيل"
+  },
+  {
+    "Code": "IM",
+    "Turkish": "Man Adası",
+    "English": "Isle of Man",
+    "Arabic": "جزيرة مان"
+  },
+  {
+    "Code": "IN",
+    "Turkish": "Hindistan",
+    "English": "India",
+    "Arabic": "الهند"
+  },
+  {
+    "Code": "IO",
+    "Turkish": "Britanya Hint Okyanusu Toprakları",
+    "English": "British Indian Ocean Territory",
+    "Arabic": "الإقليم البريطاني في المحيط الهندي"
+  },
+  {
+    "Code": "IQ",
+    "Turkish": "Irak",
+    "English": "Iraq",
+    "Arabic": "العراق"
+  },
+  {
+    "Code": "IR",
+    "Turkish": "İran",
+    "English": "Iran",
+    "Arabic": "إيران"
+  },
+  {
+    "Code": "IS",
+    "Turkish": "İzlanda",
+    "English": "Iceland",
+    "Arabic": "آيسلندا"
+  },
+  {
+    "Code": "IT",
+    "Turkish": "İtalya",
+    "English": "Italy",
+    "Arabic": "إيطاليا"
+  },
+  {
+    "Code": "JE",
+    "Turkish": "Jersey",
+    "English": "Jersey",
+    "Arabic": "جيرسي"
+  },
+  {
+    "Code": "JM",
+    "Turkish": "Jamaika",
+    "English": "Jamaica",
+    "Arabic": "جامايكا"
+  },
+  {
+    "Code": "JO",
+    "Turkish": "Ürdün",
+    "English": "Jordan",
+    "Arabic": "الأردن"
+  },
+  {
+    "Code": "JP",
+    "Turkish": "Japonya",
+    "English": "Japan",
+    "Arabic": "اليابان"
+  },
+  {
+    "Code": "KE",
+    "Turkish": "Kenya",
+    "English": "Kenya",
+    "Arabic": "كينيا"
+  },
+  {
+    "Code": "KG",
+    "Turkish": "Kırgızistan",
+    "English": "Kyrgyzstan",
+    "Arabic": "قيرغيزستان"
+  },
+  {
+    "Code": "KH",
+    "Turkish": "Kamboçya",
+    "English": "Cambodia",
+    "Arabic": "كمبوديا"
+  },
+  {
+    "Code": "KI",
+    "Turkish": "Kiribati",
+    "English": "Kiribati",
+    "Arabic": "كيريباتي"
+  },
+  {
+    "Code": "KM",
+    "Turkish": "Komorlar",
+    "English": "Comoros",
+    "Arabic": "جزر القمر"
+  },
+  {
+    "Code": "KN",
+    "Turkish": "Saint Kitts ve Nevis",
+    "English": "St. Kitts & Nevis",
+    "Arabic": "سانت كيتس ونيفيس"
+  },
+  {
+    "Code": "KP",
+    "Turkish": "Kuzey Kore",
+    "English": "North Korea",
+    "Arabic": "كوريا الشمالية"
+  },
+  {
+    "Code": "KR",
+    "Turkish": "Güney Kore",
+    "English": "South Korea",
+    "Arabic": "كوريا الجنوبية"
+  },
+  {
+    "Code": "KW",
+    "Turkish": "Kuveyt",
+    "English": "Kuwait",
+    "Arabic": "الكويت"
+  },
+  {
+    "Code": "KY",
+    "Turkish": "Cayman Adaları",
+    "English": "Cayman Islands",
+    "Arabic": "جزر كايمان"
+  },
+  {
+    "Code": "KZ",
+    "Turkish": "Kazakistan",
+    "English": "Kazakhstan",
+    "Arabic": "كازاخستان"
+  },
+  {
+    "Code": "LA",
+    "Turkish": "Laos",
+    "English": "Laos",
+    "Arabic": "لاوس"
+  },
+  {
+    "Code": "LB",
+    "Turkish": "Lübnan",
+    "English": "Lebanon",
+    "Arabic": "لبنان"
+  },
+  {
+    "Code": "LC",
+    "Turkish": "Saint Lucia",
+    "English": "St. Lucia",
+    "Arabic": "سانت لوسيا"
+  },
+  {
+    "Code": "LI",
+    "Turkish": "Liechtenstein",
+    "English": "Liechtenstein",
+    "Arabic": "ليختنشتاين"
+  },
+  {
+    "Code": "LK",
+    "Turkish": "Sri Lanka",
+    "English": "Sri Lanka",
+    "Arabic": "سريلانكا"
+  },
+  {
+    "Code": "LR",
+    "Turkish": "Liberya",
+    "English": "Liberia",
+    "Arabic": "ليبيريا"
+  },
+  {
+    "Code": "LS",
+    "Turkish": "Lesotho",
+    "English": "Lesotho",
+    "Arabic": "ليسوتو"
+  },
+  {
+    "Code": "LT",
+    "Turkish": "Litvanya",
+    "English": "Lithuania",
+    "Arabic": "ليتوانيا"
+  },
+  {
+    "Code": "LU",
+    "Turkish": "Lüksemburg",
+    "English": "Luxembourg",
+    "Arabic": "لوكسمبورغ"
+  },
+  {
+    "Code": "LV",
+    "Turkish": "Letonya",
+    "English": "Latvia",
+    "Arabic": "لاتفيا"
+  },
+  {
+    "Code": "LY",
+    "Turkish": "Libya",
+    "English": "Libya",
+    "Arabic": "ليبيا"
+  },
+  {
+    "Code": "MA",
+    "Turkish": "Fas",
+    "English": "Morocco",
+    "Arabic": "المغرب"
+  },
+  {
+    "Code": "MC",
+    "Turkish": "Monako",
+    "English": "Monaco",
+    "Arabic": "موناكو"
+  },
+  {
+    "Code": "MD",
+    "Turkish": "Moldova",
+    "English": "Moldova",
+    "Arabic": "مولدوفا"
+  },
+  {
+    "Code": "ME",
+    "Turkish": "Karadağ",
+    "English": "Montenegro",
+    "Arabic": "الجبل الأسود"
+  },
+  {
+    "Code": "MF",
+    "Turkish": "Saint Martin",
+    "English": "St. Martin",
+    "Arabic": "سان مارتن"
+  },
+  {
+    "Code": "MG",
+    "Turkish": "Madagaskar",
+    "English": "Madagascar",
+    "Arabic": "مدغشقر"
+  },
+  {
+    "Code": "MH",
+    "Turkish": "Marshall Adaları",
+    "English": "Marshall Islands",
+    "Arabic": "جزر مارشال"
+  },
+  {
+    "Code": "MK",
+    "Turkish": "Kuzey Makedonya",
+    "English": "North Macedonia",
+    "Arabic": "مقدونيا الشمالية"
+  },
+  {
+    "Code": "ML",
+    "Turkish": "Mali",
+    "English": "Mali",
+    "Arabic": "مالي"
+  },
+  {
+    "Code": "MM",
+    "Turkish": "Myanmar (Burma)",
+    "English": "Myanmar (Burma)",
+    "Arabic": "ميانمار (بورما)"
+  },
+  {
+    "Code": "MN",
+    "Turkish": "Moğolistan",
+    "English": "Mongolia",
+    "Arabic": "منغوليا"
+  },
+  {
+    "Code": "MO",
+    "Turkish": "Çin Makao ÖİB",
+    "English": "Macao SAR China",
+    "Arabic": "منطقة ماكاو الإدارية الخاصة"
+  },
+  {
+    "Code": "MP",
+    "Turkish": "Kuzey Mariana Adaları",
+    "English": "Northern Mariana Islands",
+    "Arabic": "جزر ماريانا الشمالية"
+  },
+  {
+    "Code": "MQ",
+    "Turkish": "Martinik",
+    "English": "Martinique",
+    "Arabic": "جزر المارتينيك"
+  },
+  {
+    "Code": "MR",
+    "Turkish": "Moritanya",
+    "English": "Mauritania",
+    "Arabic": "موريتانيا"
+  },
+  {
+    "Code": "MS",
+    "Turkish": "Montserrat",
+    "English": "Montserrat",
+    "Arabic": "مونتسرات"
+  },
+  {
+    "Code": "MT",
+    "Turkish": "Malta",
+    "English": "Malta",
+    "Arabic": "مالطا"
+  },
+  {
+    "Code": "MU",
+    "Turkish": "Mauritius",
+    "English": "Mauritius",
+    "Arabic": "موريشيوس"
+  },
+  {
+    "Code": "MV",
+    "Turkish": "Maldivler",
+    "English": "Maldives",
+    "Arabic": "جزر المالديف"
+  },
+  {
+    "Code": "MW",
+    "Turkish": "Malavi",
+    "English": "Malawi",
+    "Arabic": "ملاوي"
+  },
+  {
+    "Code": "MX",
+    "Turkish": "Meksika",
+    "English": "Mexico",
+    "Arabic": "المكسيك"
+  },
+  {
+    "Code": "MY",
+    "Turkish": "Malezya",
+    "English": "Malaysia",
+    "Arabic": "ماليزيا"
+  },
+  {
+    "Code": "MZ",
+    "Turkish": "Mozambik",
+    "English": "Mozambique",
+    "Arabic": "موزمبيق"
+  },
+  {
+    "Code": "NA",
+    "Turkish": "Namibya",
+    "English": "Namibia",
+    "Arabic": "ناميبيا"
+  },
+  {
+    "Code": "NC",
+    "Turkish": "Yeni Kaledonya",
+    "English": "New Caledonia",
+    "Arabic": "كاليدونيا الجديدة"
+  },
+  {
+    "Code": "NE",
+    "Turkish": "Nijer",
+    "English": "Niger",
+    "Arabic": "النيجر"
+  },
+  {
+    "Code": "NF",
+    "Turkish": "Norfolk Adası",
+    "English": "Norfolk Island",
+    "Arabic": "جزيرة نورفولك"
+  },
+  {
+    "Code": "NG",
+    "Turkish": "Nijerya",
+    "English": "Nigeria",
+    "Arabic": "نيجيريا"
+  },
+  {
+    "Code": "NI",
+    "Turkish": "Nikaragua",
+    "English": "Nicaragua",
+    "Arabic": "نيكاراغوا"
+  },
+  {
+    "Code": "NL",
+    "Turkish": "Hollanda",
+    "English": "Netherlands",
+    "Arabic": "هولندا"
+  },
+  {
+    "Code": "NO",
+    "Turkish": "Norveç",
+    "English": "Norway",
+    "Arabic": "النرويج"
+  },
+  {
+    "Code": "NP",
+    "Turkish": "Nepal",
+    "English": "Nepal",
+    "Arabic": "نيبال"
+  },
+  {
+    "Code": "NR",
+    "Turkish": "Nauru",
+    "English": "Nauru",
+    "Arabic": "ناورو"
+  },
+  {
+    "Code": "NU",
+    "Turkish": "Niue",
+    "English": "Niue",
+    "Arabic": "نيوي"
+  },
+  {
+    "Code": "NZ",
+    "Turkish": "Yeni Zelanda",
+    "English": "New Zealand",
+    "Arabic": "نيوزيلندا"
+  },
+  {
+    "Code": "OM",
+    "Turkish": "Umman",
+    "English": "Oman",
+    "Arabic": "عُمان"
+  },
+  {
+    "Code": "PA",
+    "Turkish": "Panama",
+    "English": "Panama",
+    "Arabic": "بنما"
+  },
+  {
+    "Code": "PE",
+    "Turkish": "Peru",
+    "English": "Peru",
+    "Arabic": "بيرو"
+  },
+  {
+    "Code": "PF",
+    "Turkish": "Fransız Polinezyası",
+    "English": "French Polynesia",
+    "Arabic": "بولينيزيا الفرنسية"
+  },
+  {
+    "Code": "PG",
+    "Turkish": "Papua Yeni Gine",
+    "English": "Papua New Guinea",
+    "Arabic": "بابوا غينيا الجديدة"
+  },
+  {
+    "Code": "PH",
+    "Turkish": "Filipinler",
+    "English": "Philippines",
+    "Arabic": "الفلبين"
+  },
+  {
+    "Code": "PK",
+    "Turkish": "Pakistan",
+    "English": "Pakistan",
+    "Arabic": "باكستان"
+  },
+  {
+    "Code": "PL",
+    "Turkish": "Polonya",
+    "English": "Poland",
+    "Arabic": "بولندا"
+  },
+  {
+    "Code": "PM",
+    "Turkish": "Saint Pierre ve Miquelon",
+    "English": "St. Pierre & Miquelon",
+    "Arabic": "سان بيير ومكويلون"
+  },
+  {
+    "Code": "PN",
+    "Turkish": "Pitcairn Adaları",
+    "English": "Pitcairn Islands",
+    "Arabic": "جزر بيتكيرن"
+  },
+  {
+    "Code": "PR",
+    "Turkish": "Porto Riko",
+    "English": "Puerto Rico",
+    "Arabic": "بورتوريكو"
+  },
+  {
+    "Code": "PS",
+    "Turkish": "Filistin Bölgeleri",
+    "English": "Palestinian Territories",
+    "Arabic": "الأراضي الفلسطينية"
+  },
+  {
+    "Code": "PT",
+    "Turkish": "Portekiz",
+    "English": "Portugal",
+    "Arabic": "البرتغال"
+  },
+  {
+    "Code": "PW",
+    "Turkish": "Palau",
+    "English": "Palau",
+    "Arabic": "بالاو"
+  },
+  {
+    "Code": "PY",
+    "Turkish": "Paraguay",
+    "English": "Paraguay",
+    "Arabic": "باراغواي"
+  },
+  {
+    "Code": "QA",
+    "Turkish": "Katar",
+    "English": "Qatar",
+    "Arabic": "قطر"
+  },
+  {
+    "Code": "RE",
+    "Turkish": "Reunion",
+    "English": "Réunion",
+    "Arabic": "روينيون"
+  },
+  {
+    "Code": "RO",
+    "Turkish": "Romanya",
+    "English": "Romania",
+    "Arabic": "رومانيا"
+  },
+  {
+    "Code": "RS",
+    "Turkish": "Sırbistan",
+    "English": "Serbia",
+    "Arabic": "صربيا"
+  },
+  {
+    "Code": "RU",
+    "Turkish": "Rusya",
+    "English": "Russia",
+    "Arabic": "روسيا"
+  },
+  {
+    "Code": "RW",
+    "Turkish": "Ruanda",
+    "English": "Rwanda",
+    "Arabic": "رواندا"
+  },
+  {
+    "Code": "SA",
+    "Turkish": "Suudi Arabistan",
+    "English": "Saudi Arabia",
+    "Arabic": "المملكة العربية السعودية"
+  },
+  {
+    "Code": "SB",
+    "Turkish": "Solomon Adaları",
+    "English": "Solomon Islands",
+    "Arabic": "جزر سليمان"
+  },
+  {
+    "Code": "SC",
+    "Turkish": "Seyşeller",
+    "English": "Seychelles",
+    "Arabic": "سيشل"
+  },
+  {
+    "Code": "SD",
+    "Turkish": "Sudan",
+    "English": "Sudan",
+    "Arabic": "السودان"
+  },
+  {
+    "Code": "SE",
+    "Turkish": "İsveç",
+    "English": "Sweden",
+    "Arabic": "السويد"
+  },
+  {
+    "Code": "SG",
+    "Turkish": "Singapur",
+    "English": "Singapore",
+    "Arabic": "سنغافورة"
+  },
+  {
+    "Code": "SH",
+    "Turkish": "Saint Helena",
+    "English": "St. Helena",
+    "Arabic": "سانت هيلينا"
+  },
+  {
+    "Code": "SI",
+    "Turkish": "Slovenya",
+    "English": "Slovenia",
+    "Arabic": "سلوفينيا"
+  },
+  {
+    "Code": "SJ",
+    "Turkish": "Svalbard ve Jan Mayen",
+    "English": "Svalbard & Jan Mayen",
+    "Arabic": "سفالبارد وجان ماين"
+  },
+  {
+    "Code": "SK",
+    "Turkish": "Slovakya",
+    "English": "Slovakia",
+    "Arabic": "سلوفاكيا"
+  },
+  {
+    "Code": "SL",
+    "Turkish": "Sierra Leone",
+    "English": "Sierra Leone",
+    "Arabic": "سيراليون"
+  },
+  {
+    "Code": "SM",
+    "Turkish": "San Marino",
+    "English": "San Marino",
+    "Arabic": "سان مارينو"
+  },
+  {
+    "Code": "SN",
+    "Turkish": "Senegal",
+    "English": "Senegal",
+    "Arabic": "السنغال"
+  },
+  {
+    "Code": "SO",
+    "Turkish": "Somali",
+    "English": "Somalia",
+    "Arabic": "الصومال"
+  },
+  {
+    "Code": "SR",
+    "Turkish": "Surinam",
+    "English": "Suriname",
+    "Arabic": "سورينام"
+  },
+  {
+    "Code": "SS",
+    "Turkish": "Güney Sudan",
+    "English": "South Sudan",
+    "Arabic": "جنوب السودان"
+  },
+  {
+    "Code": "ST",
+    "Turkish": "Sao Tome ve Principe",
+    "English": "São Tomé & Príncipe",
+    "Arabic": "ساو تومي وبرينسيبي"
+  },
+  {
+    "Code": "SV",
+    "Turkish": "El Salvador",
+    "English": "El Salvador",
+    "Arabic": "السلفادور"
+  },
+  {
+    "Code": "SX",
+    "Turkish": "Sint Maarten",
+    "English": "Sint Maarten",
+    "Arabic": "سانت مارتن"
+  },
+  {
+    "Code": "SY",
+    "Turkish": "Suriye",
+    "English": "Syria",
+    "Arabic": "سوريا"
+  },
+  {
+    "Code": "SZ",
+    "Turkish": "Esvatini",
+    "English": "Eswatini",
+    "Arabic": "إسواتيني"
+  },
+  {
+    "Code": "TA",
+    "Turkish": "Tristan da Cunha",
+    "English": "Tristan da Cunha",
+    "Arabic": "تريستان دا كونا"
+  },
+  {
+    "Code": "TC",
+    "Turkish": "Turks ve Caicos Adaları",
+    "English": "Turks & Caicos Islands",
+    "Arabic": "جزر توركس وكايكوس"
+  },
+  {
+    "Code": "TD",
+    "Turkish": "Çad",
+    "English": "Chad",
+    "Arabic": "تشاد"
+  },
+  {
+    "Code": "TF",
+    "Turkish": "Fransız Güney Toprakları",
+    "English": "French Southern Territories",
+    "Arabic": "الأقاليم الجنوبية الفرنسية"
+  },
+  {
+    "Code": "TG",
+    "Turkish": "Togo",
+    "English": "Togo",
+    "Arabic": "توغو"
+  },
+  {
+    "Code": "TH",
+    "Turkish": "Tayland",
+    "English": "Thailand",
+    "Arabic": "تايلاند"
+  },
+  {
+    "Code": "TJ",
+    "Turkish": "Tacikistan",
+    "English": "Tajikistan",
+    "Arabic": "طاجيكستان"
+  },
+  {
+    "Code": "TK",
+    "Turkish": "Tokelau",
+    "English": "Tokelau",
+    "Arabic": "توكيلاو"
+  },
+  {
+    "Code": "TL",
+    "Turkish": "Timor-Leste",
+    "English": "Timor-Leste",
+    "Arabic": "تيمور - ليشتي"
+  },
+  {
+    "Code": "TM",
+    "Turkish": "Türkmenistan",
+    "English": "Turkmenistan",
+    "Arabic": "تركمانستان"
+  },
+  {
+    "Code": "TN",
+    "Turkish": "Tunus",
+    "English": "Tunisia",
+    "Arabic": "تونس"
+  },
+  {
+    "Code": "TO",
+    "Turkish": "Tonga",
+    "English": "Tonga",
+    "Arabic": "تونغا"
+  },
+  {
+    "Code": "TR",
+    "Turkish": "Türkiye",
+    "English": "Türkiye",
+    "Arabic": "تركيا"
+  },
+  {
+    "Code": "TT",
+    "Turkish": "Trinidad ve Tobago",
+    "English": "Trinidad & Tobago",
+    "Arabic": "ترينيداد وتوباغو"
+  },
+  {
+    "Code": "TV",
+    "Turkish": "Tuvalu",
+    "English": "Tuvalu",
+    "Arabic": "توفالو"
+  },
+  {
+    "Code": "TW",
+    "Turkish": "Tayvan",
+    "English": "Taiwan",
+    "Arabic": "تايوان"
+  },
+  {
+    "Code": "TZ",
+    "Turkish": "Tanzanya",
+    "English": "Tanzania",
+    "Arabic": "تنزانيا"
+  },
+  {
+    "Code": "UA",
+    "Turkish": "Ukrayna",
+    "English": "Ukraine",
+    "Arabic": "أوكرانيا"
+  },
+  {
+    "Code": "UG",
+    "Turkish": "Uganda",
+    "English": "Uganda",
+    "Arabic": "أوغندا"
+  },
+  {
+    "Code": "UM",
+    "Turkish": "ABD Küçük Harici Adaları",
+    "English": "U.S. Outlying Islands",
+    "Arabic": "جزر الولايات المتحدة النائية"
+  },
+  {
+    "Code": "US",
+    "Turkish": "Amerika Birleşik Devletleri",
+    "English": "United States",
+    "Arabic": "الولايات المتحدة"
+  },
+  {
+    "Code": "UY",
+    "Turkish": "Uruguay",
+    "English": "Uruguay",
+    "Arabic": "أورغواي"
+  },
+  {
+    "Code": "UZ",
+    "Turkish": "Özbekistan",
+    "English": "Uzbekistan",
+    "Arabic": "أوزبكستان"
+  },
+  {
+    "Code": "VA",
+    "Turkish": "Vatikan",
+    "English": "Vatican City",
+    "Arabic": "الفاتيكان"
+  },
+  {
+    "Code": "VC",
+    "Turkish": "Saint Vincent ve Grenadinler",
+    "English": "St. Vincent & Grenadines",
+    "Arabic": "سانت فنسنت وجزر غرينادين"
+  },
+  {
+    "Code": "VE",
+    "Turkish": "Venezuela",
+    "English": "Venezuela",
+    "Arabic": "فنزويلا"
+  },
+  {
+    "Code": "VG",
+    "Turkish": "Britanya Virjin Adaları",
+    "English": "British Virgin Islands",
+    "Arabic": "جزر فيرجن البريطانية"
+  },
+  {
+    "Code": "VI",
+    "Turkish": "ABD Virjin Adaları",
+    "English": "U.S. Virgin Islands",
+    "Arabic": "جزر فيرجن الأمريكية"
+  },
+  {
+    "Code": "VN",
+    "Turkish": "Vietnam",
+    "English": "Vietnam",
+    "Arabic": "فيتنام"
+  },
+  {
+    "Code": "VU",
+    "Turkish": "Vanuatu",
+    "English": "Vanuatu",
+    "Arabic": "فانواتو"
+  },
+  {
+    "Code": "WF",
+    "Turkish": "Wallis ve Futuna",
+    "English": "Wallis & Futuna",
+    "Arabic": "جزر والس وفوتونا"
+  },
+  {
+    "Code": "WS",
+    "Turkish": "Samoa",
+    "English": "Samoa",
+    "Arabic": "ساموا"
+  },
+  {
+    "Code": "XK",
+    "Turkish": "Kosova",
+    "English": "Kosovo",
+    "Arabic": "كوسوفو"
+  },
+  {
+    "Code": "YE",
+    "Turkish": "Yemen",
+    "English": "Yemen",
+    "Arabic": "اليمن"
+  },
+  {
+    "Code": "YT",
+    "Turkish": "Mayotte",
+    "English": "Mayotte",
+    "Arabic": "مايوت"
+  },
+  {
+    "Code": "ZA",
+    "Turkish": "Güney Afrika",
+    "English": "South Africa",
+    "Arabic": "جنوب أفريقيا"
+  },
+  {
+    "Code": "ZM",
+    "Turkish": "Zambiya",
+    "English": "Zambia",
+    "Arabic": "زامبيا"
+  },
+  {
+    "Code": "ZW",
+    "Turkish": "Zimbabve",
+    "English": "Zimbabwe",
+    "Arabic": "زيمبابوي"
+  }
+]

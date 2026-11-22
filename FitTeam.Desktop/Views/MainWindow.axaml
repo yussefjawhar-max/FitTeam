@@ -1,0 +1,19 @@
+<Window xmlns="https://github.com/avaloniaui" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Class="FitTeam.Desktop.Views.MainWindow"
+        Title="FitTeam • Antrenman ve Sporcu Takibi" Width="1240" Height="850" MinWidth="1040" MinHeight="700" Background="#F3F6FA" WindowStartupLocation="CenterScreen">
+  <Grid x:Name="Shell" ColumnDefinitions="250,*">
+    <Border Background="#101417" Padding="16,24">
+      <Grid RowDefinitions="Auto,*,Auto">
+        <StackPanel Spacing="6"><TextBlock Text="FitTeam" FontSize="32" FontWeight="Bold" Foreground="White"/><TextBlock Text="HER GÜN BİR ADIM İLERİ" FontSize="10" Foreground="#D7FF3C" LetterSpacing="1.4"/></StackPanel>
+        <ScrollViewer Grid.Row="1" Margin="0,32,0,18" VerticalScrollBarVisibility="Auto"><StackPanel x:Name="Navigation"/></ScrollViewer>
+        <StackPanel Grid.Row="2" Spacing="8"><TextBlock x:Name="SidebarName" Foreground="White" FontWeight="SemiBold" TextWrapping="Wrap"/><TextBlock x:Name="SidebarRole" Foreground="#9DAFC2" FontSize="12" TextWrapping="Wrap"/><Button x:Name="LogoutButton" Classes="nav" Content="Çıkış yap" Margin="0,8,0,0"/></StackPanel>
+      </Grid>
+    </Border>
+    <Grid Grid.Column="1" RowDefinitions="Auto,*" Margin="26,20,26,22">
+      <Grid ColumnDefinitions="*,Auto" Margin="0,0,0,24">
+        <StackPanel Spacing="6"><TextBlock x:Name="PageTitle" Foreground="#101417" FontSize="26" FontWeight="Bold"/><TextBlock x:Name="PageSubtitle" Foreground="#687D92" FontSize="13" TextWrapping="Wrap"/></StackPanel>
+        <StackPanel Grid.Column="1" Orientation="Horizontal" Spacing="12" VerticalAlignment="Center"><Button x:Name="WorkspaceButton" Content="Kişisel panelim" IsVisible="False"/><Button x:Name="NotificationButton" Content="Bildirimler"/><Border Background="White" CornerRadius="20" Padding="14,9"><TextBlock x:Name="DateLabel" Foreground="#667079" FontSize="12"/></Border></StackPanel>
+      </Grid>
+      <ContentControl x:Name="PageContent" Grid.Row="1" HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch"/>
+    </Grid>
+  </Grid>
+</Window>

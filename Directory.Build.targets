@@ -1,0 +1,10 @@
+<Project>
+  <!-- Windows: proje kökündeki mysql klasörünü derleme çıktısına bağlar. -->
+  <PropertyGroup>
+    <FitTeamEnginePath>$(MSBuildThisFileDirectory)mysql</FitTeamEnginePath>
+  </PropertyGroup>
+  <Target Name="LinkWindowsMySqlEngine" AfterTargets="Build"
+          Condition="$([MSBuild]::IsOSPlatform('Windows')) and '$(MSBuildProjectName)' == 'FitTeam.Desktop' and Exists('$(FitTeamEnginePath)/bin/mysqld.exe') and !Exists('$(TargetDir)mysql')">
+    <Exec Command="cmd /c mklink /J &quot;$(TargetDir)mysql&quot; &quot;$(FitTeamEnginePath)&quot;" />
+  </Target>
+</Project>

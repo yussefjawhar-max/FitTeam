@@ -1,0 +1,19 @@
+<Application xmlns="https://github.com/avaloniaui" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Class="FitTeam.Desktop.App" RequestedThemeVariant="Light" Name="FitTeam">
+  <Application.Styles>
+    <FluentTheme />
+    <StyleInclude Source="avares://Avalonia.Controls.DataGrid/Themes/Fluent.xaml" />
+    <Style Selector="Window"><Setter Property="FontFamily" Value="Arial, Segoe UI, sans-serif"/><Setter Property="FontSize" Value="14"/></Style>
+    <Style Selector="Button"><Setter Property="CornerRadius" Value="20"/><Setter Property="Padding" Value="16,10"/><Setter Property="Cursor" Value="Hand"/></Style>
+    <Style Selector="Button.primary"><Setter Property="Background" Value="#D7FF3C"/><Setter Property="Foreground" Value="#101417"/><Setter Property="FontWeight" Value="SemiBold"/></Style>
+    <Style Selector="Button.nav"><Setter Property="CornerRadius" Value="10"/><Setter Property="Background" Value="Transparent"/><Setter Property="Foreground" Value="#B6BABE"/><Setter Property="HorizontalContentAlignment" Value="Left"/><Setter Property="Margin" Value="0,2"/></Style>
+    <Style Selector="Button.nav.active"><Setter Property="Background" Value="#D7FF3C"/><Setter Property="Foreground" Value="#101417"/></Style>
+    <Style Selector="Button.welcome-card:pointerover /template/ ContentPresenter#PART_ContentPresenter"><Setter Property="Background" Value="#F5F8E8"/><Setter Property="BorderBrush" Value="#ADBF6C"/></Style>
+    <Style Selector="Button.welcome-card:pressed /template/ ContentPresenter#PART_ContentPresenter"><Setter Property="Background" Value="#E9F0CF"/></Style>
+    <Style Selector="Button.welcome-main:pointerover /template/ ContentPresenter#PART_ContentPresenter"><Setter Property="Background" Value="#2A3027"/><Setter Property="BorderBrush" Value="#D7FF3C"/></Style>
+    <Style Selector="Button.welcome-main:pressed /template/ ContentPresenter#PART_ContentPresenter"><Setter Property="Background" Value="#363E2C"/></Style>
+    <Style Selector="TextBox"><Setter Property="CornerRadius" Value="12"/><Setter Property="MinHeight" Value="38"/></Style>
+    <Style Selector="NumericUpDown"><Setter Property="MinHeight" Value="38"/></Style>
+    <Style Selector="ComboBox"><Setter Property="MinHeight" Value="38"/><Setter Property="HorizontalAlignment" Value="Stretch"/></Style>
+    <Style Selector="DataGrid"><Setter Property="RowHeight" Value="42"/><Setter Property="ColumnHeaderHeight" Value="42"/><Setter Property="GridLinesVisibility" Value="Horizontal"/><Setter Property="BorderThickness" Value="0"/><Setter Property="Background" Value="White"/></Style>
+  </Application.Styles>
+</Application>

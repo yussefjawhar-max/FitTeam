@@ -1,0 +1,5 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup><TargetFramework>net8.0</TargetFramework><ImplicitUsings>enable</ImplicitUsings><Nullable>enable</Nullable></PropertyGroup>
+  <ItemGroup><EmbeddedResource Include="Localization/*.json" /><EmbeddedResource Include="Countries/countries.json" /><EmbeddedResource Include="Addresses/*.json" /></ItemGroup>
+  <ItemGroup><InternalsVisibleTo Include="FitTeam.Controllers" /></ItemGroup>
+</Project>

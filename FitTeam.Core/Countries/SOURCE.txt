@@ -1,0 +1,4 @@
+Country and territory display names: Unicode CLDR, Unicode license.
+https://github.com/unicode-org/cldr-json
+https://www.unicode.org/license.txt
+Languages: tr, en, ar.

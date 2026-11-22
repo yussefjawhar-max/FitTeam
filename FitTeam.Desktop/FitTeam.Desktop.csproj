@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType><TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings><Nullable>enable</Nullable>
+    <RootNamespace>FitTeam.Desktop</RootNamespace><AssemblyName>FitTeam</AssemblyName>
+    <AvaloniaUseCompiledBindingsByDefault>false</AvaloniaUseCompiledBindingsByDefault>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <AvaloniaResource Include="Assets/**" />
+    <ProjectReference Include="../FitTeam.Core/FitTeam.Core.csproj" />
+    <ProjectReference Include="../FitTeam.Controllers/FitTeam.Controllers.csproj" />
+    <ProjectReference Include="../FitTeam.Persistence/FitTeam.Persistence.csproj" />
+    <ProjectReference Include="../FitTeam.AuthServer/FitTeam.AuthServer.csproj" ReferenceOutputAssembly="false" Private="false" />
+    <PackageReference Include="Avalonia" Version="11.3.8" />
+    <PackageReference Include="Avalonia.Desktop" Version="11.3.8" />
+    <PackageReference Include="Avalonia.Themes.Fluent" Version="11.3.8" />
+    <PackageReference Include="Avalonia.Controls.DataGrid" Version="11.3.8" />
+  </ItemGroup>
+  <Target Name="CopyLocalIdentityService" AfterTargets="Build" Condition="'$(DesignTimeBuild)' != 'true' and '$(RuntimeIdentifier)' == ''">
+    <ItemGroup>
+      <LocalIdentityFiles Include="$(MSBuildProjectDirectory)/../FitTeam.AuthServer/bin/$(Configuration)/$(TargetFramework)/*" />
+    </ItemGroup>
+    <Copy SourceFiles="@(LocalIdentityFiles)" DestinationFolder="$(OutDir)AuthServer" SkipUnchangedFiles="true" />
+  </Target>
+</Project>

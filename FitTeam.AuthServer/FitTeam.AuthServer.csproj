@@ -1,0 +1,4 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+<PropertyGroup><TargetFramework>net8.0</TargetFramework><ImplicitUsings>enable</ImplicitUsings><Nullable>enable</Nullable></PropertyGroup>
+<ItemGroup><ProjectReference Include="../FitTeam.Core/FitTeam.Core.csproj" /><ProjectReference Include="../FitTeam.Persistence/FitTeam.Persistence.csproj" /></ItemGroup>
+</Project>
